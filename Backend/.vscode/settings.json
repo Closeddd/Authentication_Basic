@@ -1,0 +1,8 @@
+{   
+"settings":
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.defaultInterpreterPath": "./env/Scripts/activate",
+    "terminal.integrated.cwd": "D:\\Coding Projects\\Django\\Authentication\\Backend",
+    "python.linting.cwd": ""
+    
+}
